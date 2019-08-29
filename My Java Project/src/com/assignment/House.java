@@ -1,3 +1,4 @@
+// Has-A relationship from  class refrigerator 
 package com.assignment;
 
 public class House {
