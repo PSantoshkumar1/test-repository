@@ -8,18 +8,19 @@ public class Employee {
 	
 	void work()
 	{
-		System.out.println("Employee is dancing");
+		System.out.println("Employee is working");
 	}
 Employee()
 {
-	
+	count++;
+	id="TY"+count;
 }
 
 Employee(String name,double salary)
 {
+	this();
 	this.name=name;
 	this.salary=salary;
-	count++;
-	id="TY"+count;
+	
 }
 }

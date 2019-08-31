@@ -4,7 +4,7 @@ public class Te extends Employee{
 String tool;
 void WriteScript()
 {
-	
+	System.out.println("writting script");
 	}
 Te()
 {
