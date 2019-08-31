@@ -1,3 +1,6 @@
+/* 
+ Example program for Constructor
+ */
 package com.constructor;
 
 public class C1 {

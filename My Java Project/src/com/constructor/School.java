@@ -1,3 +1,6 @@
+/*
+ Example program for parameterized & non parameterized constructor
+ */
 package com.constructor;
 
 public class School {

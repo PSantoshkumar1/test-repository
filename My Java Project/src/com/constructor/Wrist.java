@@ -1,3 +1,6 @@
+/*
+ * Write a program  which can print the properties of class watch
+ */
 package com.constructor;
 
 public class Wrist {

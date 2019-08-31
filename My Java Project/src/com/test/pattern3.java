@@ -1,3 +1,7 @@
+/*
+   Write a pattern program (test )
+
+ */
 package com.test;
 
 public class pattern3 {

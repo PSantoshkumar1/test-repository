@@ -1,3 +1,6 @@
+/*
+ Example program for non static method using constructor
+ */
 package com.constructor;
 
 public class C3 {

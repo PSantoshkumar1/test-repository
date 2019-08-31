@@ -1,3 +1,6 @@
+/*
+ Example program for Default constructor 
+ */
 package com.constructor;
 
 public class C2 {

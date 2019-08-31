@@ -1,3 +1,6 @@
+/*
+ 
+ */
 package com.constructor;
 
 public class A {

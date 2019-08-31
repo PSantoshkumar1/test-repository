@@ -1,3 +1,6 @@
+/*
+ write a program for parameterized constructor using boolean to show that given variables true or false
+ */
 package com.constructor;
 
 public class C7 {

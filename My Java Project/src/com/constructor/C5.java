@@ -1,3 +1,6 @@
+/*
+ Program for non parameterized constructor 
+ */
 package com.constructor;
 
 public class C5 {

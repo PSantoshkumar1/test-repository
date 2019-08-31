@@ -1,3 +1,6 @@
+/*
+ Write a constructor program by using parameterized & non parameterized constructor & by using method
+ */
 package com.constructor;
 
 public class C8 {

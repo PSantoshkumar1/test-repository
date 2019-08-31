@@ -1,3 +1,6 @@
+/*
+Write  a program for non parameterized constructor & print the values for the non static variables 
+ */
 package com.constructor;
 
 public class C6 {

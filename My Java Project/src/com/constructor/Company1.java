@@ -1,4 +1,8 @@
+/*
+ write a program  to print the brand ram processor of class Laptop
+ */
 package com.constructor;
+
 
 public class Company1 {
 

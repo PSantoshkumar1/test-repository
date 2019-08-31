@@ -1,3 +1,6 @@
+/*
+ Write a program to display the properties of class animal
+ */
 package com.constructor;
 
 public class world {
