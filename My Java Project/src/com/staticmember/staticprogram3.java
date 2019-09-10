@@ -1,3 +1,4 @@
+  //sample program for ways to access static members within same class
 package com.staticmember;
 
 public class staticprogram3 {

@@ -1,3 +1,4 @@
+//Sample program of static members
 package com.staticmember;
 
 public class staticprogram5 {

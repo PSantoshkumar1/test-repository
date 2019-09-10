@@ -1,3 +1,4 @@
+//sample program for static block
 package com.staticmember;
 
 public class staticprogram12 {

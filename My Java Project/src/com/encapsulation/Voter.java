@@ -25,6 +25,10 @@ public class Voter {
 		public void setId(int id) {
 			this.id=id;
 		}
+		Voter()
+		{
+			
+		}
 		Voter (int age, int id)
 		{
 			this.age=age;

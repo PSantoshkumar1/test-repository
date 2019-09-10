@@ -1,3 +1,5 @@
+//Sample program for Static Method using S09-S10
+
 package com.staticmember;
 
 public class staticprogram9 {

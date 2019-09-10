@@ -1,3 +1,4 @@
+//Static program of static members using S06-S07
 package com.staticmember;
 
 public class staticprogram7 {

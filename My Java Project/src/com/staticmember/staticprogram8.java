@@ -1,3 +1,5 @@
+//Sample program for Static Method
+
 package com.staticmember;
 
 public class staticprogram8 {  
