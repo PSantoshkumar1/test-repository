@@ -2,9 +2,9 @@ package com.sample;
 
 public abstract class Hospital {
 	
-	void check()
+	static void check()
 	{
-		
+		System.out.println(" Sagar hospital");
 	}
 	Hospital()
 	{
